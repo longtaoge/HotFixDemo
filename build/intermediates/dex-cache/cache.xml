@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_8d516a0e073e2255159a36fca8e8f1aef35e82eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_00c17d28eef8d7b65b754bd890e014dec31bae7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_8da983f98064723eef7e0b58f6e7c73f8f3fc0e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_67fa346dbd6cc08947798a7fa42527b5b281b6f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_fbd35b515883aac7267ce46e00f7279968f1d914.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_3385a8a6ceb4d1bd4fbf5cb40a66ce0e39026bcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_0ad51fb2569f39067484bb05ff43e2673140e83e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_97173bf2fc4cbeb232018ecdbe12f5373691bf2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_0b2426d6c543c9932e85d4b3ea4783eecb018610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/caches/modules-2/files-2.1/com.taobao.android/utdid4all/1.1.5.3_proguard/989c3bb13060da1e3154bfe00236f76453a2725f/utdid4all-1.1.5.3_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="989c3bb13060da1e3154bfe00236f76453a2725f">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/utdid4all-1.1.5.3_proguard_d9c41f29ef76b7074fc07f820e897b26d1a838c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_b426cd2dc6c509ae7ba943f09914e79ab914a74d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_5db9e7fb4d41f1e29c5915edf25df2dd6ecccc9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_c78f28d16eccca28c80de897c364bba315c792cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2191deede38fc7c1c5a84f05349f687b0e105aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_f2db5245843f22df9e2454f733d58c546cc25925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.taobao.android/alisdk-hotfix/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89ea44b0fb2d098968cd7998d0dd577afb89b711">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.taobao.android-alisdk-hotfix-1.4.0_0f7c08ad7165abf0684a3f198d33e901f0e07ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_ccbd2d34a15cef2c64ee58dd89b35cda7400e6b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7216032255b753eb54e92c1c3317a99d6e128539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_213c6c7be7a6a768795817a18270ec27ef84966e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/longtaoge/Downloads/AMap_Android_Location_SDK_All/AMapLocation_DemoDocs/AMap_Android_API_Location_Demo/android_studio/HotfixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_7a9d794332d4bf8d8e0f22debf88033f2316aea4.jar" />
+    </item>
+
+</items>
