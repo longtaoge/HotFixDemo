@@ -6,17 +6,9 @@
 
 使用方法:
 
+参见
 
-
-### 1 调用assembleDebug编译，我们会将编译过的包保存在build/bakApk中。然后我们将它安装到手机，我们发现APP出现了BUG,公鸡下面的名字写成了孔雀 点击红色按钮，可以看到补丁并没有加载.
-
-
-![](https://github.com/longtaoge/tinkerDemo/blob/master/app/src/main/res/drawable/tinker11.png)
-
-
-
-![](https://github.com/longtaoge/tinkerDemo/blob/master/app/src/main/res/drawable/tinker6.jpg)
-
+[http://baichuan.taobao.com/](http://baichuan.taobao.com/)
 
 
 
